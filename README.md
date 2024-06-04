@@ -51,6 +51,6 @@ body {
 
 ## Licensing and attributions
 
-This repo has an [Unlicense license](LICENSE.md) as I've only really aggregated data rather than producing something novel.
+This repo has an [Unlicense license](LICENSE) as I've only really aggregated data rather than producing something novel.
 
 This repo also includes the [JetBrains Mono's OFL.txt](JetBrainsMonoOFL.txt) which is copied from https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt.
