@@ -1,4 +1,4 @@
-# JetBrains Mono Obsidian CSS Snippet
+# Obsidian JetBrains Mono CSS Snippet
 [jetbrains-mono-font-monospace-theme.css](jetbrains-mono-font-monospace-theme.css) is an [Obsidian CSS snippet](https://help.obsidian.md/Extending+Obsidian/CSS+snippets) that sets Obsidian's monospace font to [JetBrains Mono](https://www.jetbrains.com/lp/mono).
 
 ![Lorem ipsum example with JetBrains Mono for monospace](lorem-ipsum-example.png)
